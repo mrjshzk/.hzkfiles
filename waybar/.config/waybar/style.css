@@ -1,4 +1,11 @@
-rooroott
-window#waybar {
-    background-color: #000000;
+#waybar {
+    background-color: transparent;
+    color: #ffffff;
+    font-family: "JetBrains Mono", monospace;
+}
+
+#clock {
+}
+
+#battery {
 }
